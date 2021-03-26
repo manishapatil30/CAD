@@ -17,3 +17,10 @@ p{
     line-height: 1.68; 
     text-align: justify;
 }
+table td
+{
+    padding: 20px;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
