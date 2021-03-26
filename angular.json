@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cad"
+    }
+  },
+  "defaultProject": "cad",
+  "cli": {
+    "analytics": "13d1ceda-311d-42bc-bb2c-42f2a49a0789"
+  }
 }
