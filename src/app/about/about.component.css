@@ -1,0 +1,23 @@
+.box
+{
+    position: absolute;
+}
+section
+{
+    width: 85%;
+    margin: 50px auto;
+    justify-content: left;
+    justify-items: left;
+    text-align: left;
+}
+p{
+    font-size: 15px;
+    justify-content: left;
+    justify-items: left;
+    line-height: 1.68; 
+    text-align: justify;
+}
+summary
+{
+    outline: none;
+}
