@@ -17,3 +17,8 @@ p{
     line-height: 1.68; 
     text-align: justify;
 }
+table
+{
+    width: 80%;
+    margin: auto;
+}

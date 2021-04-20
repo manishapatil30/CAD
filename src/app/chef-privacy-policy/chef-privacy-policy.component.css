@@ -24,3 +24,8 @@ table td
     justify-items: center;
     text-align: center;
 }
+table
+{
+    width: 80%;
+    margin: auto;
+}
