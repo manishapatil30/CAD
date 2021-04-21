@@ -23,9 +23,12 @@ table td
     justify-content: center;
     justify-items: center;
     text-align: center;
+    overflow: hidden; 
 }
 table
 {
-    width: 80%;
+    width: 100%;
     margin: auto;
+    border-collapse: collapse; 
+    table-layout:fixed;
 }

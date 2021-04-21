@@ -23,36 +23,13 @@ table td
     justify-content: center;
     justify-items: center;
     text-align: center;
+    overflow: hidden; 
 }
 table
 {
-    width: 70%;
+    width: 100%;
     margin: auto;
     border-collapse: collapse; 
-    
-}
-@media screen and (max-width:650px) {
-    table {
-        width: 70%;
-        margin: auto;
-        border-collapse: collapse; 
-     
-    }
-
-  }
-  .table-responsive {
-    min-height: .01%;
-    overflow-x: auto;
+    table-layout:fixed;
 }
 
-@media screen and (max-width: 650px) {
-    table {
-        width: 0%;
-        margin-bottom: 15px;
-        overflow-y: hidden;
-        -ms-overflow-style: -ms-autohiding-scrollbar;
-        border: 1px solid #ddd;
-        background-color: beige;
-    }
-   
-}
